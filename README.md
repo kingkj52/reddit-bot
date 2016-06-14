@@ -26,8 +26,8 @@ This guide assumes a Ubuntu 14.04 Linux machine with python 2.7 installed on it.
 
 1. sudo apt-get install git
 2. sudo apt-get install sqlite3 libsqlite3-dev
-3. cd <directory you wish to hold the bot>
-4. git clone <url to this repository>
+3. cd \<directory you wish to hold the bot\>
+4. git clone \<url to this repository\>
 5. pip install -r requirements.txt
 
 Now that it's installed, in order to run it you will need the following (assuming you own/mod the subreddit):
